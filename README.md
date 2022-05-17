@@ -6,4 +6,6 @@ I use a validation so the app doesn't show characters that do not have thumbnail
 Also it is limited to show 60 characters. 
 The page is responsible for mobile screens, just using flex-box. 
 
+I'm always open to feedbacks.
+
 Hope you like it!
